@@ -29,3 +29,6 @@ Project Calico: https://docs.projectcalico.org/v3.9/introduction/
 What Is Container Orchestration?: https://blog.newrelic.com/engineering/container-orchestration-explained/
 
 Security for Containers: https://www.trendmicro.com/en_ie/business/products/hybrid-cloud/container.html
+
+# XSS Security Cheatsheet
+https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
